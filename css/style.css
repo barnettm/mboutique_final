@@ -778,7 +778,9 @@ body {
     @media (max-width: 56.25rem) {
       .footer__copyright {
         width: 100%;
-        float: none; } }
+        float: none;
+        text-align: center;
+        border: none; } }
 
 .navigation__checkbox {
   display: none; }
