@@ -74,6 +74,8 @@
         @include respond(tab-port) {
             width: 100%;
             float: none;
+            text-align: center;
+            border: none;
         }
     }
 }
