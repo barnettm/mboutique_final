@@ -592,7 +592,8 @@ body {
       .card__price-box {
         margin-bottom: 3rem; }
       .card__price-value {
-        font-size: 4rem; } }
+        font-size: 4rem;
+        font-weight: 300; } }
 
 .story {
   width: 75%;
